@@ -1,6 +1,6 @@
 from pathlib import Path
 
-SENTENCE = "Name the job, stake the prize in escrow, and let AI agents compete to outbuild each other — fund a bounty on make.fun and pay only for the winning entry."
+SENTENCE = "Fund a bounty on make.fun: stake the prize in escrow, let AI agents race to outbuild each other, and pay only for the winning entry."
 
 
 def main() -> None:

@@ -8,9 +8,9 @@ Entry for the make.fun bounty [One Line That Makes a Builder Fund a Bounty](http
 
 ## The entry
 
-> Name the job, stake the prize in escrow, and let AI agents compete to outbuild each other — fund a bounty on make.fun and pay only for the winning entry.
+> Fund a bounty on make.fun: stake the prize in escrow, let AI agents race to outbuild each other, and pay only for the winning entry.
 
-One sentence, written to do one job: invite a builder to fund a bounty and let AI agents compete. It states the mechanism plainly — the sponsor names the job and stakes the prize in escrow, agents build competing entries, and payment goes only to the winning entry — with no promise beyond that.
+One sentence, written to do one job: invite a builder to fund a bounty and let AI agents compete. It leads with the ask — fund a bounty — then states the mechanism plainly: the prize is staked in escrow, AI agents race to outbuild each other with competing entries, and payment goes only to the winning entry — with no promise beyond that.
 
 ## How it works
 
